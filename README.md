@@ -25,13 +25,13 @@ Users should be able to:
 I created new constant variables for each audio file and did a event listener for each key.
 
 ## What I Learned
-- I learned how to create audio files. 
+I learned how to create audio files. 
 
-const sound1 = new Audio("audio/key-1.mp3");
+    const sound1 = new Audio("audio/key-1.mp3");
 
-- I learned how to play audio files. 
+I learned how to play audio files. 
 
-sound1.play();
+    sound1.play();
 
 ### Author
 - HTML and CSS made for Advent of JavaScript by Amy Dutton
