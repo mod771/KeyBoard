@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/mod771/KeyBoard)
-- Live Site URL: 
+- Live Site URL: (https://mod771.github.io/KeyBoard/#)
 
 ## My Process
 I created new constant variables for each audio file and did a event listener for each key.
